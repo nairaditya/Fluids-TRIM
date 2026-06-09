@@ -1,4 +1,4 @@
-# TRIM: Triadic Regulation Identification
+# TRIM: Triadic Interaction Mining in fluid flows
 
 MATLAB figure-generation code for the TRIM framework, which detects and
 quantifies amplitude-mediated triadic regulation in oscillatory and
