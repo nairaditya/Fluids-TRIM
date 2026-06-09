@@ -81,15 +81,3 @@ level above `Codes/`.
 - **Turbulent jet** (`fig_jet`): SPOD eigenspectrum, BMD bispectrum, the
   per-triad TRIM heatmap, and conditional-coupling profiles for the two
   leading triads.
-
-Colours follow the Wong (2011) colour-blind-safe palette.
-
-## Citation
-
-If you use this code, please cite the associated paper.
-
-<!-- TODO: add citation / BibTeX once the paper reference is finalised. -->
-
-## License
-
-<!-- TODO: choose a license (e.g. MIT, BSD-3-Clause) and add a LICENSE file. -->
